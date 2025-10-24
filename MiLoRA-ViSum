@@ -5,7 +5,7 @@ The research paper investigates the advancement and development of video summari
 Problem Statement
 The primary challenge addressed in this study is the need for more robust, accurate, and automatic video summarization techniques. Traditional video summarization methods often suffer from redundancy, lack of semantic understanding, or inability to scale across diverse video genres. The paper outlines the gap in achieving high-quality summaries that are both representative and concise, especially as video content diversity grows.
 
-Methodology
+Methodology ------>
 The authors present a comprehensive methodology for video summarization, integrating advanced machine learning and deep learning approaches. Key steps in the methodology include:
 
 Data Preparation: Collection and preprocessing of video datasets for feature extraction.
@@ -20,3 +20,6 @@ Evaluation: Objective and subjective evaluation metrics are implemented to asses
 
 Results
 The proposed video summarization tool demonstrates substantial improvements over conventional methods, as evidenced by both quantitative metrics (e.g., F-score, precision, recall) and qualitative human assessments. Results show that the system produces summaries that are more relevant, less redundant, and better aligned with human preferences across various video domains. Comparative analysis with baseline and state-of-the-art techniques is provided.
+
+Discussion
+The discussion addresses the implications of findings for future multimedia management and practical deployment of video summarization tools. Limitations such as computational complexity and occasional semantic misses are analyzed. The importance of modular, scalable system designs to accommodate evolving video characteristics and user customization is emphasized.
