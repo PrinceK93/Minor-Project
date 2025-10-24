@@ -26,3 +26,6 @@ The proposed video summarization tool demonstrates substantial improvements over
 
 Discussion ------->
 The discussion addresses the implications of findings for future multimedia management and practical deployment of video summarization tools. Limitations such as computational complexity and occasional semantic misses are analyzed. The importance of modular, scalable system designs to accommodate evolving video characteristics and user customization is emphasized.
+
+Conclusion
+The paper concludes with the affirmation that the developed video summarization tool offers meaningful advancements in automation and summary quality. The integration of deep learning and attention-based strategies significantly enhances the accuracy and relevancy of generated summaries. Recommendations for further research include extending semantic understanding, improving real-time performance, and targeting specific application domains such as surveillance, education, and social media.
