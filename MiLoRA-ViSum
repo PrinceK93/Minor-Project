@@ -1,8 +1,7 @@
- 
-Introduction
+ Introduction --------->
 The research paper investigates the advancement and development of video summarization tools, crucial for handling massive video data generated across social platforms, surveillance, and multimedia archives. The introduction highlights the importance of efficient video summarization in reducing manual content processing, enhancing information retrieval, and supporting rapid content consumption.
 
-Problem Statement
+Problem Statement ------->
 The primary challenge addressed in this study is the need for more robust, accurate, and automatic video summarization techniques. Traditional video summarization methods often suffer from redundancy, lack of semantic understanding, or inability to scale across diverse video genres. The paper outlines the gap in achieving high-quality summaries that are both representative and concise, especially as video content diversity grows.
 
 Methodology ------>
