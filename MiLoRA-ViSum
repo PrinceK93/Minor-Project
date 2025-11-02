@@ -17,8 +17,6 @@ Model Design: Deployment of deep neural networks such as CNNs and LSTMs to under
 
 Summarization Strategy: Application of frame selection, key shot determination, and redundancy elimination using attention mechanisms and clustering algorithms.
 
-Evaluation: Objective and subjective evaluation metrics are implemented to assess summary quality and relevance.
-
 
 Results ------->
 The proposed video summarization tool demonstrates substantial improvements over conventional methods, as evidenced by both quantitative metrics (e.g., F-score, precision, recall) and qualitative human assessments. Results show that the system produces summaries that are more relevant, less redundant, and better aligned with human preferences across various video domains. Comparative analysis with baseline and state-of-the-art techniques is provided.
