@@ -10,6 +10,9 @@ Methodology ------>
   
 
 
+Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames.   
+Data Preparation: Collection and preprocessing of video datasets for feature extraction.
+
 Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames. 
 
 Model Design: Deployment of deep neural networks such as CNNs and LSTMs to understand context and sequence in videos.
