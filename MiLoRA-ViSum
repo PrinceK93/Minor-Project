@@ -6,10 +6,6 @@ Problem Statement ------->
 The primary challenge addressed in this study is the need for more robust, accurate, and automatic video summarization techniques. Traditional video summarization methods often suffer from redundancy, lack of semantic understanding, or inability to scale across diverse video genres. The paper outlines the gap in achieving high-quality summaries that are both representative and concise, especially as video content diversity grows.
 
 
-Methodology ------>
-  
-
-
 Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames.   
 Data Preparation: Collection and preprocessing of video datasets for feature extraction.
 
