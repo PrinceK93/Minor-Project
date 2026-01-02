@@ -8,7 +8,13 @@ The primary challenge addressed in this study is the need for more robust, accur
 
 Methodology ------>
   
+Data Preparation: Collection and preprocessing of video datasets for feature extraction. 
 Data Preparation: Collection and preprocessing of video datasets for feature extraction.
+
+Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames.  
+Data Preparation: Collection and preprocessing of video datasets for feature extraction.
+
+Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames. 
 
 Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames.  
 Data Preparation: Collection and preprocessing of video datasets for feature extraction.
