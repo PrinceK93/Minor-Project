@@ -10,7 +10,7 @@ Feature Extraction: Utilization of visual, temporal, and semantic cues from vide
 Data Preparation: Collection and preprocessing of video datasets for feature extraction.
 
 Feature Extraction: Utilization of visual, temporal, and semantic cues from video frames. 
-
+ 
 Model Design: Deployment of deep neural networks such as CNNs and LSTMs to understand context and sequence in videos.
 
 Summarization Strategy: Application of frame selection, key shot determination, and redundancy elimination using attention mechanisms and clustering algorithms.
